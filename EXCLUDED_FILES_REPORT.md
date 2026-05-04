@@ -90,7 +90,7 @@ This document details files and directories from the original project that were 
 
 ## Path Sanitization
 
-All absolute paths of the form `/mnt/A-SSD/ughini/Mayo_Grand_Challenge/...` were replaced with:
+All absolute paths from the original development environment were replaced with:
 
 | Original Pattern | Replacement |
 |-----------------|-------------|

@@ -3,15 +3,13 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "Controlled Comparison of Self-Supervised Low-Dose CT Denoising Methods"
 authors:
-  - family-names: "Ughini"
-    given-names: "Felipe"
-repository-code: "https://github.com/<username>/controlled_ssl_ldct_denoising"
+  - name: "Anonymous"
+repository-code: "https://github.com/anonymous/controlled_ssl_ldct_denoising"
 license: MIT
 preferred-citation:
   type: conference-paper
   title: "Controlled Comparison of Self-Supervised Low-Dose CT Denoising Methods"
   authors:
-    - family-names: "Ughini"
-      given-names: "Felipe"
+    - name: "Anonymous"
   collection-title: "Brazilian Conference on Intelligent Systems (BRACIS)"
   year: 2026

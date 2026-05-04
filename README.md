@@ -97,7 +97,7 @@ This repository uses the **AAPM Mayo Low-Dose CT Grand Challenge** dataset, whic
 
 ```bash
 # Clone this repository
-git clone https://github.com/<username>/controlled_ssl_ldct_denoising.git
+git clone https://github.com/anonymous/controlled_ssl_ldct_denoising.git
 cd controlled_ssl_ldct_denoising
 
 # Create virtual environment
@@ -207,9 +207,9 @@ Input (1ch) → Enc1→Enc2→Enc3→Enc4→Enc5 → Dec5+SE(e4)→Dec4+SE(e3)�
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{ughini2026controlled,
+@inproceedings{anon2026controlled,
   title={Controlled Comparison of Self-Supervised Low-Dose CT Denoising Methods},
-  author={Ughini, Felipe},
+  author={Anonymous},
   booktitle={Brazilian Conference on Intelligent Systems (BRACIS)},
   year={2026}
 }
