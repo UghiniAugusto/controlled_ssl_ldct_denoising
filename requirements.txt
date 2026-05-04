@@ -1,0 +1,7 @@
+torch>=1.12
+numpy>=1.21
+scipy>=1.7
+scikit-image>=0.19
+pydicom>=2.3
+matplotlib>=3.5
+bm3d>=4.0.0

@@ -1,0 +1,88 @@
+# ── Python ────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.so
+
+# ── Virtual environments ──────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── IDE / Editor ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# ── Jupyter ───────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Data (NEVER commit patient data) ─────────────────────────────────
+data/
+*.IMA
+*.dcm
+*.DCM
+*.nii
+*.nii.gz
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.mha
+*.mhd
+*.raw
+
+# ── Model checkpoints ────────────────────────────────────────────────
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# ── Training artifacts ────────────────────────────────────────────────
+logs/
+results/
+figures/
+stats/
+paper4_results/
+runs/
+wandb/
+mlruns/
+tensorboard/
+*.log
+
+# ── Large / generated files ──────────────────────────────────────────
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.7z
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.bmp
+
+# ── OS files ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Secrets ───────────────────────────────────────────────────────────
+.env
+*.key
+*.pem
+credentials.*
